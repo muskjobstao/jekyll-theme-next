@@ -1,10 +1,12 @@
 ---
 title: rengongzhineng
-date: 2025-02-27 23:31:30
+date: 2025-02-26 23:29:53
 categories:
-- test/test
+- Foo
 tags:
 - Foo
+- Bar
+- Baz
 ---
 ## **第1-3天：人工智能基础**
 
