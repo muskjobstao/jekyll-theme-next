@@ -1,5 +1,5 @@
 ---
-title: 基于通识人工智能的就业培训计划（适用于中职毕业生）
+title: rengongzhineng
 date: 2025-02-27 23:31:30
 categories:
 - test/test
