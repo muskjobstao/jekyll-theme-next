@@ -4,6 +4,7 @@ date: 2025-02-27 23:31:30
 categories:
 - test/test
 tags:
+- Foo
 ---
 ## **第1-3天：人工智能基础**
 
