@@ -1,5 +1,5 @@
 ---
-title: rengongzhineng
+title: 基于人工智能的中职教育
 date: 2025-02-26 23:29:53
 categories:
 - Foo
